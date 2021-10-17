@@ -76,8 +76,8 @@ module.exports = {
 		},
 		hardhat: {
 			forking: {
-				url: 'https://eth-rinkeby.alchemyapi.io/v2/7z572lXXuyfpl4wcS-faR81Oyobzb8Pj',
-				blockNumber: 9416593,
+				url: 'https://data-seed-prebsc-2-s3.binance.org:8545/',
+				blockNumber: 13310698,
 			},
 		},
 	},
